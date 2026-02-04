@@ -1,6 +1,6 @@
-# -Conditional-Access-Lab-Location-Based-Access-Control
+# Conditional-Access-Lab-Location-Based-Access-Control
 Practical labs exploring Conditional Access, MFA, and location-based access control in Microsoft Entra ID.
-#  – Conditional Access Lab 2: Location-Based Access Control
+#   Conditional Access Lab 2: Location-Based Access Control
 
 ## Overview
 This lab demonstrates how Microsoft Entra ID Conditional Access can be used to control access based on **network location**. The goal was to understand how trusted locations work, how access can be blocked outside approved networks, and how to safely validate policies using sign-in logs.
